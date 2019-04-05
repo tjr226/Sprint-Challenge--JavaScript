@@ -64,14 +64,14 @@ Follow these steps to set up and work on your project:
 - [ x ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
 - [ x ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 - [ x ] You are now ready to build this project with your preferred IDE
-- [ ] Implement the project on your Branch, committing changes regularly.
+- [ x ] Implement the project on your Branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project:
 
 - [ x ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
 - [ x ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by  merging the branch back into master.
+- [ x ] PM then will count the HW as done by  merging the branch back into master.
 
 
 ## Minimum Viable Product
@@ -94,10 +94,12 @@ Create constructors, bind methods, and create cuboids in this prototypes challen
 
 ## Task 4: Classes
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
-* [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
+* [ x ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
 ## Stretch Problems
+
+* [ x ]
 
 There are a few stretch problems found throughout the files, don't work on them until you are finished with MVP requirements!
