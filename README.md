@@ -24,6 +24,8 @@ In meeting the minimum viable product (MVP) specifications listed below, you sho
 
 ## Self-Study Questions
 
+* [ x ]
+
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
@@ -65,7 +67,7 @@ Follow these steps to set up and work on your project:
 - [ x ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 - [ x ] You are now ready to build this project with your preferred IDE
 - [ x ] Implement the project on your Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ x ] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project:
 
